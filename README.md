@@ -1,1 +1,1 @@
-# System-Design-Handwritten-Notes
+1. Blog titled "A Friendly Introduction to Designing LinkedIn from Scratch ✍️" is available at https://medium.com/tech-ai-made-easy/a-friendly-introduction-to-designing-linkedin-from-scratch-️-94a3a0c1a072
